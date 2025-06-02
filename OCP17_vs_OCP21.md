@@ -15,7 +15,8 @@
 | ✅ **Virtual Threads & Structured Concurrency**          | ❌ Not covered    | ✅ Covered        | Major concurrency enhancement with Project Loom               |
 | ✅ **Foreign Function & Memory API (FFM)**               | ❌ Not covered    | ✅ Covered        | Safe interaction with native libraries (still in incubation)  |
  
--  New Topics in OCP Java 21 (1Z0-830) NOT in Java 17 (1Z0-829) 
+-  New Topics in OCP Java 21 (1Z0-830) NOT in Java 17 (1Z0-829)
+ 
 | **Java 21 Feature** | **Description** |  
 |---------------------|----------------|  
 | **Virtual Threads (Project Loom)** | Lightweight threads for scalable concurrency . |  
