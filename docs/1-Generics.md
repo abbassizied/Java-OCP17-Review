@@ -50,6 +50,7 @@ public <T> void printArray(T[] array) {
 ## 🌀 Wildcards: ?, ? extends, ? super:
 
 - Use cases for wildcards:
+
 | Form            | Meaning         | Use When                  |
 | --------------- | --------------- | ------------------------- |
 | `<?>`           | Unknown type    | You just want to **read** |
